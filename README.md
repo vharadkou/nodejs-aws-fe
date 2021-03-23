@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+CloudFront URL - https://d2ac74ohmvk0j6.cloudfront.net/
+S3-website - http://rs-nodejs-in-aws-fe.s3-website-eu-west-1.amazonaws.com/
+
 ## Available Scripts
 
 In the project directory, you can run:  
